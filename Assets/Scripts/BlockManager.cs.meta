@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 32af3fb5d98ec354e961a864b78aba95
+timeCreated: 1489513210
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lavaMaterial: {fileID: 2100000, guid: 8b6dd53b04cefbd42950d033fdfe9f35, type: 2}
+  - waterMaterial: {fileID: 2100000, guid: 0c9ded96753ffe94a9a98d743e04e1e1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
